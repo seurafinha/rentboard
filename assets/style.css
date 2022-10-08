@@ -1,0 +1,119 @@
+body{
+    background-color: #e16060;
+}
+
+.games_sec{
+
+}
+
+.game_box{
+    background-color: #fff;
+    padding: 23px;
+    border-radius: 16px;
+    overflow: hidden;
+    height: 415px;
+}
+
+.game_box span.type{}
+.game_box span.price{
+    color:#000;
+    float:right;
+}
+.game_box p{
+    font-size: 16px;
+}
+.game_box img{
+    width: 100%;
+    height: 198px !important;
+    margin-bottom: 16px;
+    border-radius: 11px;
+}
+.panel_head{
+    font-size: 18px;
+    margin-top: 3px;
+    display: inline-block;
+}
+
+tr td .pro_img{
+    width: 99px;
+    border-radius: 10px;
+    height: 99px;
+}
+tr td{
+    vertical-align: middle !important;
+}
+
+.myGame{
+    color: #e55f62;
+}
+.game_box h4{
+    color: #e55f62;
+}
+.start_chat{
+    background-color: #e55f62;
+    border: none;
+    padding: 5px 15px;
+}
+
+
+.ui-dialog.ui-corner-all{
+    top:17 !important;
+}
+
+.emojionearea-button {
+    display: none !important;
+}
+
+.navbar-brand{
+    color: #e55f62 !important;
+}
+.navbar-default {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    border-radius: 0 !important;
+}
+
+
+.pro_img{
+    width: 100% !important;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+
+.viewOfferDetails h5{
+    border: 1px solid #a4a4a4;
+    padding: 12px;
+    margin: 0;
+}
+
+.heroSection{
+    background-image: url(hero.jpeg);
+    padding: 97px 0;
+    margin-bottom: 34px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+.heroSection:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000a6;
+}
+
+nav{
+    margin-bottom: 0 !important;
+}
+.mainSearch{
+    background-color: #fff;
+    padding: 26px 26px 16px 26px;
+    border-radius: 11px;
+}
+
+
+
+
